@@ -7,10 +7,12 @@
 
 ## 🌈 About Me  
 
-💫 I’m a **passionate problem-solver** and **creative full-stack developer** with **7+ years of experience** crafting elegant, scalable, and high-impact web applications.  
-💻 I blend logic and design to turn ideas into seamless digital experiences — powered by **Laravel**, **Vue.js**, and **React**.  
-🌍 Currently thriving as a **full-time freelancer**, helping brands and startups build fast, modern, and reliable web platforms that truly stand out.  
-🔥 Always learning, always building — because great code never stops evolving!  
+
+#### 💫 I’m a **passionate problem-solver** and **creative full-stack developer** with **7+ years of experience** crafting elegant, scalable, and high-impact web applications.  
+#### 💻 I blend logic and design to turn ideas into seamless digital experiences — powered by **Laravel**, **Vue.js**, and **React**.  
+#### 🌍 Currently thriving as a **full-time freelancer**, helping brands and startups build fast, modern, and reliable web platforms that truly stand out.  
+#### 🔥 Always learning, always building — because great code never stops evolving!  
+
 
 > 💡 *"I don’t just write code — I design experiences that empower users and inspire confidence."*  
 
@@ -25,9 +27,9 @@ _Saurashtra University, Rajkot_
 
 ## 🧰 Tech Stack  
 
-🖥️ **Backend:** Laravel · Filament · Livewire · CodeIgniter · OOP PHP  
-🎨 **Frontend:** Vue.js · React · Alpine.js · jQuery · HTML · CSS  
-🗄️ **Database:** MySQL · Eloquent ORM  
+🖥️ **Backend:** Laravel · Filament · Livewire · CodeIgniter · PHP  
+🎨 **Frontend:** Vue.js · Nuxt.js · React · Next.js · Alpine.js · jQuery · HTML · CSS  
+🗄️ **Database:** MySql · Sqlite · Mongodb · Postgres  
 ⚙️ **Tools:** Git · Composer · NPM · VS Code  
 🗣️ **Languages:** English · Hindi · Gujarati  
 
