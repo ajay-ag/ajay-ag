@@ -3,20 +3,19 @@
 💻 **Full-Stack PHP Developer | Laravel | Filament | Livewire | Vue.js | React**  
 🌟 Crafting clean, scalable, and creative digital experiences with code that *just feels right!*  
 
----
+
 
 ## 🌈 About Me  
-
-
 #### 💫 I’m a **passionate problem-solver** and **creative full-stack developer** with **7+ years of experience** crafting elegant, scalable, and high-impact web applications.  
 #### 💻 I blend logic and design to turn ideas into seamless digital experiences — powered by **Laravel**, **Vue.js**, and **React**.  
 #### 🌍 Currently thriving as a **full-time freelancer**, helping brands and startups build fast, modern, and reliable web platforms that truly stand out.  
 #### 🔥 Always learning, always building — because great code never stops evolving!  
 
 
-> 💡 *"I don’t just write code — I design experiences that empower users and inspire confidence."*  
+> 💡 *"I don’t just write code — I design experiences that empower users and inspire confidence."*
 
 
+---
 
 ## 🎓 Education  
 
